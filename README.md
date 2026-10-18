@@ -212,3 +212,6 @@ sudo systemctl enable nginx
 sudo systemctl restart nginx
 sudo systemctl status nginx
 ```
+
+AWS DEPLOYMENT
+Deployed a multi-tier e-commerce application using EC2 , Application Load balancer , VPC , Security groups and Amazon RDS MYSQL .
